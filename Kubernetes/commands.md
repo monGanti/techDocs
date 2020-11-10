@@ -1,6 +1,6 @@
 ## Kubctl Commands
 
-|Star Notes| Command|Description|
+|###Star Notes| ###Command|###Description|
 |----------|--------|-----------|
 |get nodes| kubectl get nodes | gives information on the Nodes|
 || kubectl cluster -info||

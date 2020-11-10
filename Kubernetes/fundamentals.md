@@ -38,4 +38,9 @@ Pods are like container clusters and always has 1-1 mapping with the containers.
 
 we are not restricted to maintainer 1 container/Pod. sometimes it takes helpers for the applications to run and we want to deploy those helpers in seperate containers and also want to maintain 1-1mapping of application container with the helper container. In such rare cases you cna have both those containers with in the same Pod. Main benefit of doing that is application and it's helper containers will share the same network (localhost) and storage space. 
 
+## Basic Commands
 refer to [Commands](commands.md)
+
+## Yml Definitions
+ refer to [yml definitions](yml-definitions.md)
+

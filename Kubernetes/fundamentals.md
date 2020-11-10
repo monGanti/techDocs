@@ -42,5 +42,12 @@ we are not restricted to maintainer 1 container/Pod. sometimes it takes helpers 
 refer to [Commands](commands.md)
 
 ## Yml Definitions
- refer to [yml definitions](yml-definitions.md)
+ refer to [Pod definition yml](pod-definitions.yml)
+
+ ## Kinds and Versions
+|Kinds|Version|
+|POD|v1|
+|Service|v1|
+|ReplicaSet|apps/v1|
+|Deployment|apps/v1|
 

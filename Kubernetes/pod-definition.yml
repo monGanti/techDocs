@@ -13,9 +13,3 @@ spec:
    - name: nginx-container
      image: nginx
 
-## Kinds and Versions
-|Kinds|Version|
-|POD|v1|
-|Service|v1|
-|ReplicaSet|apps/v1|
-|Deployment|apps/v1|
